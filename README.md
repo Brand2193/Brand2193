@@ -44,13 +44,14 @@ Amante de la tecnología y de los proyectos de desarrollo de software, con conoc
       <td colspan="2" align="center" style="padding-top: 20px;">
         <strong style="font-size: 18px;">Sistemas operativos</strong><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
