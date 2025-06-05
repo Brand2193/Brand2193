@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  &lt;Brandon Juárez Rosas/&gt;!
+  &lt;Brandon Juárez Rosas/&gt;
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
